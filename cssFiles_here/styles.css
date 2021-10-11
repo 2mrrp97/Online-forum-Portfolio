@@ -1,0 +1,14 @@
+.aboutme {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+  padding: 50px;
+}
+
+hr {
+  color: black;
+  width: 50vw;
+  margin: 0 auto;
+  padding: 2px;
+}
