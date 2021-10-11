@@ -189,7 +189,7 @@ const projects = [
     }
     ,
     {
-        "link": "https://mythreadapp.herokuapp.com/discussions.php",
+        "link": "https://mythreadapp.herokuapp.com/index.php",
         "title": "Final Portfolio + online tech forum",
         "type": "fullstack",
         "techused": "HTML , CSS , JavaScript , Php , MySQL , Heroku , Github",
